@@ -1,0 +1,1 @@
+{"name":"Local: kevin_and_permutation","url":"e:\\Cp\\problem_set3\\kevin_and_permutation.cpp","tests":[{"id":1755984202254,"input":"3\n4 2\n6 1\n8 3\n","output":"3 1 2 4\n5 2 1 6 4 3\n4 6 2 8 3 1 5 7\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Cp\\problem_set3\\kevin_and_permutation.cpp","group":"local","local":true}

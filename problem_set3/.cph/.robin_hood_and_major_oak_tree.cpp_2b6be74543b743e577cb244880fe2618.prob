@@ -1,0 +1,1 @@
+{"name":"Local: robin_hood_and_major_oak_tree","url":"e:\\Cp\\problem_set3\\robin_hood_and_major_oak_tree.cpp","tests":[{"id":1755100222644,"input":"5\n1 1\n2 1\n2 2\n3 2\n7 7\n","output":"NO\nYES\nNO\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Cp\\problem_set3\\robin_hood_and_major_oak_tree.cpp","group":"local","local":true}

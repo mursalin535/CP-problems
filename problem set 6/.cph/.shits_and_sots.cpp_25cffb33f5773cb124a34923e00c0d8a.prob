@@ -1,0 +1,1 @@
+{"name":"Local: shits_and_sots","url":"e:\\Cp\\problem set 6\\shits_and_sots.cpp","tests":[{"id":1761721703843,"input":"5\n10\n0000\n11000\n101011\n01101001\n","output":"2\n0\n9\n5\n11\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Cp\\problem set 6\\shits_and_sots.cpp","group":"local","local":true}

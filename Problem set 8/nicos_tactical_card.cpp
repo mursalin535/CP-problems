@@ -1,0 +1,32 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    long long  t; 
+    cin >> t;
+    while (t--) {
+        long long  n; 
+        cin >> n;
+
+        vector<long long > a(n), b(n);
+        for (long long  i = 0; i < n; i++) cin >> a[i];
+        for (long long  i = 0; i < n; i++) cin >> b[i];
+
+        long long  mx=0,mn=0;
+
+        // process pairs safely
+        for (long long  i = 0; i< n; i++) {
+
+            long long  new_max=max(mx-a[i],b[i]-mn);
+            long long  new_min=min(mn-a[i],b[i]-mx);
+
+            mx=new_max;
+            mn=new_min;
+        }
+
+        
+
+        cout << mx << "\n";
+    }
+    return 0;
+}

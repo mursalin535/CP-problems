@@ -1,0 +1,1 @@
+{"name":"Local: mav_and_mod","url":"e:\\Cp\\problem set2\\mav_and_mod.cpp","tests":[{"id":1753980799664,"input":"4\n2\n3\n4\n5\n","output":"-1\n3 2 1\n-1\n1 5 2 3 4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Cp\\problem set2\\mav_and_mod.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: balanced_suffle","url":"e:\\Cp\\problem set 6\\balanced_suffle.cpp","tests":[{"id":1761719663358,"input":"(()(()))\n","output":"()(()())\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Cp\\problem set 6\\balanced_suffle.cpp","group":"local","local":true}

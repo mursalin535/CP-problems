@@ -1,0 +1,1 @@
+{"name":"Local: pile_shuffling","url":"e:\\Cp\\problem 7\\pile_shuffling.cpp","tests":[{"id":1765346669123,"input":"3\n2\n1 3 1 2\n1 1 1 2\n3\n2 0 2 2\n0 1 1 0\n1 1 0 0\n3\n1 2 1 2\n3 4 3 4\n0 0 0 0\n","output":"2\n3\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Cp\\problem 7\\pile_shuffling.cpp","group":"local","local":true}

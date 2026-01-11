@@ -1,0 +1,1 @@
+{"name":"Local: blackslex_and_pass","url":"e:\\Cp\\Problem set 8\\blackslex_and_pass.cpp","tests":[{"id":1766558787372,"input":"3\n2 1\n3 2\n1 5\n","output":"3\n7\n6\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Cp\\Problem set 8\\blackslex_and_pass.cpp","group":"local","local":true}

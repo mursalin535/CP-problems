@@ -1,0 +1,1 @@
+{"name":"Local: multiple_constructive","url":"e:\\Cp\\problem set 6\\multiple_constructive.cpp","tests":[{"id":1760857710167,"input":"3\n2\n5\n1\n","output":"1 2 1 2\n1 3 1 2 3 2\n1 1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Cp\\problem set 6\\multiple_constructive.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: perfecto","url":"e:\\Cp\\Problem set 8\\perfecto.cpp","tests":[{"id":1765724888373,"input":"3\n1\n4\n50\n","output":"-1\n2 4 1 3\n5 1 4 3 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Cp\\Problem set 8\\perfecto.cpp","group":"local","local":true}

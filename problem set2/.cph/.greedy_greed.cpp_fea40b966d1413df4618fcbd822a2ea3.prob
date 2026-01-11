@@ -1,0 +1,1 @@
+{"name":"Local: greedy_greed","url":"e:\\Cp\\problem set2\\greedy_greed.cpp","tests":[{"id":1754923786783,"input":"2\n3 3\n1 2\n","output":"YES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Cp\\problem set2\\greedy_greed.cpp","group":"local","local":true}

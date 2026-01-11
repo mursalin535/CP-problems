@@ -1,0 +1,1 @@
+{"name":"Local: drifting_away","url":"e:\\Cp\\problem 7\\drifting_away.cpp","tests":[{"id":1765107099955,"input":"4\n*****\n<<<>\n>*<\n*\n","output":"-1\n3\n-1\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Cp\\problem 7\\drifting_away.cpp","group":"local","local":true}
